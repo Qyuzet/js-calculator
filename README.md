@@ -5,6 +5,7 @@
 The **JS Calculator** project is a simple, fully functional calculator application developed using JavaScript, HTML, and CSS. It showcases the fundamental aspects of creating a basic calculator that can perform standard arithmetic operations.
 [TRY NOW!](https://qyuzet.github.io/js-calculator/)
 
+![image](https://github.com/Qyuzet/js-calculator/assets/93258081/40098921-fe05-4747-a535-941049bea426)
 
 
 ## Features
